@@ -1,0 +1,26 @@
+Vscode Shortcut {
+
+	(1)	File Explorer (Files Tab) is hidden or minimized.
+		Press Ctrl + Shift + E (on Windows/Linux) or Cmd + Shift + E (on macOS).
+
+	(2)	Open Extention Tab
+		Ctrl + Shift + X
+
+	(3)  Open Command/File finder () pannel
+		Ctrl + Shift + P
+
+	(4)  Open Setting
+		Ctrl + ,
+
+	(5)	Go To Next Line (even in middle of code)
+		Ctrl + Enter
+
+	(6)	Move Lines
+		Alt + DownArrow
+
+	(7)	Duplicate Line Up or Down
+		Alt + Shift + Down/Up Arrow
+
+	(8)	Write in More line at ones
+		Alt + Ctrl + Down/Up Arrow
+}
