@@ -1,0 +1,16 @@
+Shortcut {
+
+    (1) Quick View
+    Ctrl + Space
+
+    (2) PowerToy Run
+    Alt + Space
+
+    (3) Quick Accent
+    Any Key + Space
+
+    (4) Text Extract
+    Win + Shift + T
+
+
+}
