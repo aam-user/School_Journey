@@ -17,5 +17,17 @@ int main (){
         printf("La media e %d\n", media);
     }
 
+    if (num1 % 2 ==0)
+        printf("Il numero e pari :%d\n",num1);
+    else
+        printf("Il numero e dispari :%d\n", num1);
+    if (num2 % 2 ==0)
+        printf("Il numero e pari :%d\n", num2);
+    else
+        printf("Il numero e dispari :%d\n", num2);
+    if (num3 % 2 ==0)
+        printf("Il numero e pari :%d\n", num3);
+    else
+        printf("Il numero e dispari :%d\n", num3);
 
 }
