@@ -7,7 +7,7 @@ int main(){
     conta = 0;
     while (conta<num){
         printf("%d\n", conta);
-        conta = conta+1;
+        conta = conta+1; // o puoi anche anche usare "conta++"
     }
 
 }
