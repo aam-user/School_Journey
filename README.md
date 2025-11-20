@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
+<h3 align="center">A passionate developer from BD</h3>
 
 - 🌱 I’m currently learning **C/C++**
 
