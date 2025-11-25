@@ -1,17 +1,28 @@
 #include <stdio.h>
+void pre();
+void post(); // declares the functions
+int i = 1;
 
 int main()
 {
-    int i = 1;
-    printf("\n%d", ++i);
-    printf("\n%d", i);
-    //  print ==> 2; 2;
+    pre(); // function call
+    post();
+    return 0;
 }
-int main()
-{
-    int i = 1;
 
-    printf("\n%d", i++);
-    printf("\n%d", i);
+void pre()
+{
+    int po = 1;
+    printf("pre-increment");
+    printf("\n%d", ++po);
+    printf("\n%d", po);
+    // print ==> 2; 2;
+}
+void post()
+{
+    int pr = 1;
+    printf("\npost-increment");
+    printf("\n%d", pr++);
+    printf("\n%d", pr);
     // print ==> 1; 2;
 }
